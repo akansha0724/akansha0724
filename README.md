@@ -65,7 +65,7 @@ Communication      →  Translating complex analysis into clear business recomme
 
 ### Featured Projects
 
-| Project | Business Problem | Outcome |
+| Project | Problem | Outcome |
 |---|---|---|
 | 🍄 [Fungal Pathogenicity Predictor](https://github.com/akansha0724/Fungal-Pathogenicity-Predictor) | Classify fungal disease risk across 9 pathogen types from trait data — relevant to pharma R&D and agricultural risk | **92.2% accuracy**, SHAP-driven feature insights, production-ready sklearn pipeline |
 | 🏠 [Smart Home Intrusion Detector](https://github.com/akansha0724/SmartHomeIntrusionDetector) | Detect abnormal IoT device behaviour in real time — security risk analytics use case | Unsupervised anomaly detection with live alerting |
