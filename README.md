@@ -21,7 +21,7 @@
 - 🎓 B.Tech Biotechnology — combining domain knowledge in life sciences with strong data skills
 - 🏥 Interested in roles at the intersection of **business strategy and data** — healthcare operations, financial analytics, and consulting
 - 🤖 Building ML and GenAI-powered analytical tools to solve real-world business problems
-- 💼 Targeting roles at firms like **Optum, Axtria, Goldman Sachs, Bain, BCG, ZS Associates, ION**
+- 💼 Targeting roles in **financial services, healthcare analytics, and management consulting**
 - 📫 Reach me at **akansha0724@gmail.com**
 
 ---
