@@ -86,9 +86,11 @@ Communication      →  Translating complex analysis into clear business recomme
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akansha0724&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akansha0724&layout=compact&hide_border=true&theme=default" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=akansha0724&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akansha0724&theme=default" width="700"/>
 </p>
 
 ---
