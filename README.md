@@ -54,8 +54,9 @@ Communication      →  Translating complex analysis into clear business recomme
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
 
-**Deployment & Reporting**
+**Reporting & Deployment**
 
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
@@ -67,10 +68,10 @@ Communication      →  Translating complex analysis into clear business recomme
 
 | Project | Problem | Outcome |
 |---|---|---|
+| 📉 [Equity Settlement Risk Analysis](https://github.com/akansha0724/equity-settlement-risk-analysis) | Analyse 507K real SEC settlement failure records — identify where operational risk concentrates and when stress events occur | **$147B March stress event identified**, ETF concentration risk, chronic vs spike classification · MySQL · Python · Excel |
 | 🍄 [Fungal Pathogenicity Predictor](https://github.com/akansha0724/Fungal-Pathogenicity-Predictor) | Classify fungal disease risk across 9 pathogen types from trait data — relevant to pharma R&D and agricultural risk | **92.2% accuracy**, SHAP-driven feature insights, production-ready sklearn pipeline |
 | 🏠 [Smart Home Intrusion Detector](https://github.com/akansha0724/SmartHomeIntrusionDetector) | Detect abnormal IoT device behaviour in real time — security risk analytics use case | Unsupervised anomaly detection with live alerting |
 | 📊 [Student Performance Predictor](https://github.com/akansha0724/Student-Performance-Predictor) | Predict academic outcomes and surface early intervention signals | Flask dashboard with SSI scoring and recommendations |
-| 🎨 [Skin Tone Analyser](https://github.com/akansha0724/Skintone-Analysis) | Real-time personalisation engine using computer vision | Live webcam analysis with colour recommendation output |
 
 ---
 
