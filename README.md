@@ -68,6 +68,7 @@ Communication      →  Translating complex analysis into clear business recomme
 
 | Project | Problem | Outcome |
 |---|---|---|
+| 🏥 [Hospital Readmissions Risk Analysis](https://github.com/akansha0724/hospital-readmissions-risk-analysis) | Analyse 64K CMS records across 4,239 hospitals — identify which conditions, states, and hospitals drive 30-day readmission risk | **15-pt protocol gap (16.3%–31.3%)** on heart failure readmissions, hospital size shown to have negligible effect, chronic underperformers flagged · MySQL · Python · Excel dashboard |
 | 📉 [Equity Settlement Risk Analysis](https://github.com/akansha0724/equity-settlement-risk-analysis) | Analyse 507K real SEC settlement failure records — identify where operational risk concentrates and when stress events occur | **$147B March stress event identified**, ETF concentration risk, chronic vs spike classification · MySQL · Python · Excel |
 | 🍄 [Fungal Pathogenicity Predictor](https://github.com/akansha0724/Fungal-Pathogenicity-Predictor) | Classify fungal disease risk across 9 pathogen types from trait data — relevant to pharma R&D and agricultural risk | **92.2% accuracy**, SHAP-driven feature insights, production-ready sklearn pipeline |
 | 🏠 [Smart Home Intrusion Detector](https://github.com/akansha0724/SmartHomeIntrusionDetector) | Detect abnormal IoT device behaviour in real time — security risk analytics use case | Unsupervised anomaly detection with live alerting |
