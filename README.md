@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Akansha Singh 👋</h1>
 
 <p align="center">
-  <b>Final-year student &nbsp;·&nbsp; Data Analytics &nbsp;·&nbsp; Finance · Healthcare · Consulting Analytics</b>
+  <b>Final-year student &nbsp;·&nbsp; Data Analytics &nbsp;·&nbsp; Finance · Healthcare · Consulting</b>
 </p>
 
 <p align="center">
