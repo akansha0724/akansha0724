@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Akansha Singh 👋</h1>
 
 <p align="center">
-  <b>Data Analyst &nbsp;·&nbsp; Finance · Healthcare · Consulting Analytics &nbsp;·&nbsp; Turning messy data into decisions</b>
+  <b>Final-year student &nbsp;·&nbsp; Data Analyst Intern &nbsp;·&nbsp; Finance · Healthcare · Consulting Analytics</b>
 </p>
 
 <p align="center">
@@ -16,14 +16,12 @@
   </a>
 </p>
 
-<p align="center"><i>Vienna waits for you — so there's time to build something worth arriving at.</i></p>
-
 ---
 
 ### About Me
 
-- 📊 **Data Analyst** with a biotech mind — 10 shipped projects across **finance, healthcare, and consulting analytics**, 770K+ records analysed
-- 🎓 B.Tech Biotechnology, Amity University — domain knowledge in life sciences paired with an analyst's toolkit
+- 📊 Final-year student with a biotech mind and a data analyst's toolkit — 10 shipped projects across **finance, healthcare, and consulting analytics**, 770K+ records analysed
+- 🎓 B.Tech Biotechnology, Amity University — domain knowledge in life sciences that gives me an edge in healthcare and R&D analytics
 - 🏥 Currently a Research Intern at **IIT (ISM) Dhanbad** (SRIS 2026) and Data Analyst Intern at **Bluestock™**
 - 🔬 2+ years in the Systems Biology & Data Analytics Lab, Amity Institute of Biotechnology
 - 🤖 Building end-to-end analytics — warehouses, risk models, forecasting, and RAG/GenAI tools — not just notebooks
