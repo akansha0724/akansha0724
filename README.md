@@ -20,9 +20,9 @@
 
 ### About Me
 
-- 📊 Final-year student with a biotech mind and a data analyst's toolkit — 10 shipped projects across **finance, healthcare, and consulting analytics**, 770K+ records analysed
+- 📊 Final-year student with a biotech mind and a data analyst's toolkit — 8 shipped projects across **finance, healthcare, and consulting analytics**, 770K+ records analysed
 - 🎓 B.Tech Biotechnology, Amity University — domain knowledge in life sciences that gives me an edge in healthcare and R&D analytics
-- 🏥 Currently a Research Intern at **IIT (ISM) Dhanbad** (SRIS 2026) 
+- 🏥 Currently a Research Intern at **IIT (ISM) Dhanbad** (SRIS 2026)
 - 🔬 2+ years in the Systems Biology & Data Analytics Lab, Amity Institute of Biotechnology
 - 🤖 Building end-to-end analytics — warehouses, risk models, forecasting, and RAG/GenAI tools — not just notebooks
 - 💼 Targeting roles in **financial services, healthcare analytics, and management consulting**
@@ -84,7 +84,6 @@ Communication      →  Translating complex analysis into clear business recomme
 | 📉 [Equity Settlement Risk Analysis](https://github.com/akansha0724/equity-settlement-risk-analysis) | Analyse 507K real SEC settlement failure records — identify where operational risk concentrates and when stress events occur | **$147B March stress event identified**, ETF concentration risk, chronic vs spike classification · MySQL · Python · Excel |
 | 💊 [Medical Cost Forecasting](https://github.com/akansha0724/medical-cost-forecast) | Forecast 10-year US healthcare spending across 6 CMS service lines, benchmarking Prophet vs ARIMA vs Holt-Winters | **No single model dominates** — Prophet wins on stable series, ARIMA on COVID-disrupted lines, Holt-Winters on slow-moving series · MySQL · Python · Excel |
 | 🍄 [Fungal Pathogenicity Predictor](https://github.com/akansha0724/Fungal-Pathogenicity-Predictor) | Classify fungal disease risk across 9 pathogen types from trait data — relevant to pharma R&D and agricultural risk | **92.2% accuracy**, SHAP-driven feature insights, production-ready sklearn pipeline |
-| 🏠 [Smart Home Intrusion Detector](https://github.com/akansha0724/SmartHomeIntrusionDetector) | Detect abnormal IoT device behaviour in real time — security risk analytics use case | Unsupervised anomaly detection with live alerting |
 | 📊 [Student Performance Predictor](https://github.com/akansha0724/Student-Performance-Predictor) | Predict academic outcomes and surface early intervention signals | Flask dashboard with SSI scoring and recommendations |
 
 ---
