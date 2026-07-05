@@ -20,7 +20,7 @@
 
 ### About Me
 
-- 📊 Final-year student with a biotech mind and a data analyst's toolkit — 8 shipped projects across **finance, healthcare, and consulting analytics**, 770K+ records analysed
+- 📊 Final-year student with a biotech mind and a data analyst's toolkit — 9 shipped projects across **finance, healthcare, and consulting analytics**, 800K+ records analysed
 - 🎓 B.Tech Biotechnology, Amity University — domain knowledge in life sciences that gives me an edge in healthcare and R&D analytics
 - 🏥 Currently a Research Intern at **IIT (ISM) Dhanbad** (SRIS 2026)
 - 🔬 2+ years in the Systems Biology & Data Analytics Lab, Amity Institute of Biotechnology
@@ -73,6 +73,7 @@ Communication      →  Translating complex analysis into clear business recomme
 | Project | Problem | Outcome |
 |---|---|---|
 | 📈 [Mutual Fund Analytics Warehouse](https://github.com/akansha0724/mutual-fund-analytics) | End-to-end MySQL star-schema warehouse over 100K+ rows of AMFI-style fund data — ETL, data-quality gates, Excel dashboard | **102 automated tests, 58 data-quality checks, all passing** · Direct plans cost **0.78% vs 1.35%** Regular TER · MySQL, Python ETL, pytest |
+| 💳 [Credit Default Risk Analytics](https://github.com/akansha0724/credit-default-risk-analytics) | Predict credit-card default on 30K real clients and turn the model into a cost-optimal approve/decline decision — the core job at a card issuer | **PR-AUC 0.56 vs 0.22 baseline**, cost-based threshold cuts expected loss **26%**, catches **75% of defaulters** · SHAP-explained · MySQL, scikit-learn, SHAP |
 | 🩺 [30-Day Readmission Risk Model](https://github.com/akansha0724/diabetes-readmission-analytics) | Predict 30-day hospital readmission on 101,766 real patient encounters — SQL cohort analysis, hypothesis testing, risk ranking | **ROC-AUC 0.64**, top 30% of patients captures **48% of all readmissions** · MySQL, Python, scikit-learn |
 | 💬 [FundGPT — RAG over Fund Factsheets](https://github.com/akansha0724/fundGPT) | Retrieval-augmented Q&A over 40 fund factsheets generated from the warehouse above — "which fund has the lowest expense ratio?" gets a cited answer | **100% retrieval hit-rate@1** on a 20-question eval · zero-cost structured answer engine + optional Claude synthesis |
 
